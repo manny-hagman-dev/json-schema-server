@@ -1,6 +1,6 @@
 {
   "schemas": [
-    { 
+    {
       "id": 1,
       "type": "object",
       "properties": {
@@ -53,6 +53,19 @@
           "required": ["animal"]
         }
       ]
+    },
+    {
+      "title": "A text input",
+      "type": "string"
+    },
+    {
+      "title": "A number input",
+      "type": "number"
+    },
+    {
+      "title": "An array of options", 
+      "type": "string",
+      "enum": ["lake", "sea"]
     }
   ]
 }
