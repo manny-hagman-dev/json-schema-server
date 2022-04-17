@@ -54,8 +54,18 @@
         }
       ]
     },
-    { "id": 2, "title": "A text input", "type": "string" },
-    { "id": 3, "title": "A number input", "type": "number" },
+    {
+      "id": 2,
+      "title": "A text input",
+      "description": "text",
+      "type": "string"
+    },
+    {
+      "id": 3,
+      "title": "A number input",
+      "description": "number",
+      "type": "number"
+    },
     {
       "id": 4,
       "title": "An array of options",
