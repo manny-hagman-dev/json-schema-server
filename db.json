@@ -5,7 +5,7 @@
       "type": "object",
       "properties": {
         "animal": {
-          "enum": ["Cat", "Fish"]
+          "enum": ["Cat", "Fish", "Wolves"]
         }
       },
       "allOf": [
@@ -70,7 +70,7 @@
       "id": 4,
       "title": "An array of options",
       "type": "string",
-      "enum": ["lake", "sea"]
+      "enum": ["lake", "sea", "ocean"]
     }
   ]
 }
