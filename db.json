@@ -54,16 +54,11 @@
         }
       ]
     },
+    { "id": 2, "title": "A text input", "type": "string" },
+    { "id": 3, "title": "A number input", "type": "number" },
     {
-      "title": "A text input",
-      "type": "string"
-    },
-    {
-      "title": "A number input",
-      "type": "number"
-    },
-    {
-      "title": "An array of options", 
+      "id": 4,
+      "title": "An array of options",
       "type": "string",
       "enum": ["lake", "sea"]
     }
