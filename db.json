@@ -1,7 +1,6 @@
 {
   "schemas": [
     {
-      "id": 1,
       "type": "object",
       "properties": {
         "animal": {
