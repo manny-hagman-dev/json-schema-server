@@ -1,4 +1,5 @@
-{
+{ 
+  "options" : ["manny", "jacque"],
   "schemas": [
     {
       "type": "object",
