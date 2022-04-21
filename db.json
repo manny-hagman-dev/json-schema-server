@@ -5,7 +5,7 @@
       "type": "object",
       "properties": {
         "animal": {
-          "enum": ["Cat", "Fish", "Wolves"]
+          "enum": ["Cat", "Fish", "Wolves", "options"]
         }
       },
       "allOf": [
